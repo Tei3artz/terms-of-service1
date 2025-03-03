@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+.text6 {
+    position: relative; /* 今の位置を基準 */
+    left: 3000px;
+}
+
+.text8 {
+    position: relative;
+    top: 50px;
+}
